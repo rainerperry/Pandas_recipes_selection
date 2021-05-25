@@ -1,9 +1,17 @@
-# pandas_recipes_selection
-manipulation of large food dataset
+## Recipes Selection with Pandas
+### Manipulation of large food dataset
 
-Objective: For a new cooking website, 20 unique modern dessert recipes are needed. 
+### Overview
+
+This project uses a large public dataset and Pandas to select a small subset of the data based on specific criteria. 
+
+**Objective:** For a new cooking website, 20 unique modern dessert recipes are needed. 
 
 A selection is to be made from a public dataset from food.com
+
+![Main Menu](./images/Kaggle.jpg?raw=true "Kaggle Screenshot"
+
+
 The relevant data available on kaggle.com contains two datasets:
 
 1. Recipe dataset (522,517 recipes from 312 different catagories)
